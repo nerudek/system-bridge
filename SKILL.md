@@ -2,7 +2,7 @@
 name: system-bridge
 description: Pelna architektura komunikacji ekosystemu AI — krag agentow, protokoly (MCP/A2A/ACP/bridge/relay), spawnowanie lokalnych agentow, multi-agent collaboration, bootstrap. Dla Voxa, Claude Code, OpenClawa, Jarvisa, Kimi Code, OpenCode, VS Code, goose i innych.
 version: 3.0.0
-author: nerua1
+author: nerudek
 updated: 2026-05-10
 tags:
   - architecture
@@ -20,7 +20,7 @@ tags:
 
 # System Bridge v3 — Pelny Krag Agentow
 
-Ten skill to JEDYNE zrodlo prawdy o tym jak agenty w ekosystemie nerua1 komunikuja sie, spawnowaja, deleguja i wspolpracuja. Kazdy nowy agent czyta ten skill przy onboardingu.
+Ten skill to JEDYNE zrodlo prawdy o tym jak agenty w ekosystemie nerudek komunikuja sie, spawnowaja, deleguja i wspolpracuja. Kazdy nowy agent czyta ten skill przy onboardingu.
 
 ---
 
@@ -391,4 +391,4 @@ Inbox (`/tmp/nexus-inbox.jsonl`) jest TYLKO dla swiadomosci Voxa, NIGDY jako ele
 
 ---
 
-*Skill opublikowany jako nerua1/system-bridge v3.0.0. Wspieraj: https://www.paypal.com/paypalme/nerudek*
+*Skill opublikowany jako nerudek/system-bridge v3.0.0. Wspieraj: https://www.paypal.com/paypalme/nerudek*

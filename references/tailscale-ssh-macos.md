@@ -27,7 +27,7 @@ Host key verification failed.
 
 Objaw (ssh -vv):
 ```
-debug1: Offering public key: /Users/x/.ssh/github_nerua1 ED25519 SHA256:xxx explicit
+debug1: Offering public key: /Users/x/.ssh/github_nerudek ED25519 SHA256:xxx explicit
 debug2: we sent a publickey packet, wait for reply
 debug2: we did not send a packet, disable method
 Connection closed by X.X.X.X port 22
