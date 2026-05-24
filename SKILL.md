@@ -599,3 +599,20 @@
    599|**Q3: How does ACP differ from MCP?**
    600|A: ACP (Agent Communication Protocol) is local and lightweight — designed for fast agent-to-agent messaging on the same machine or via Tailscale. MCP is broader and tool-focused.
    601|
+
+## Install
+
+```bash
+# Skopiuj do vault Claude Code
+cp -r . ~/.claude/skills/vault/system-bridge/
+
+# Lub sklonuj bezpośrednio
+git clone https://github.com/nerudek/system-bridge ~/.claude/skills/vault/system-bridge/
+```
+
+## Usage
+
+```bash
+# Załaduj w Claude Code
+/skill system-bridge
+```
