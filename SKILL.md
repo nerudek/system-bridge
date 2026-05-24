@@ -3,6 +3,7 @@
      3|description: Pelna architektura komunikacji ekosystemu AI — krag agentow, protokoly (MCP/A2A/ACP/bridge/relay), spawnowanie lokalnych agentow, multi-agent collaboration, bootstrap. Dla Voxa, Claude Code, OpenClawa, Jarvisa, Kimi Code, OpenCode, VS Code, goose i innych.
      4|version: 3.4.0
      5|author: nerudek
+license: MIT
      6|updated: 2026-05-13T02:45
      7|tags:
      8|  - architecture
@@ -67,7 +68,7 @@
     67|
     68|### Matryca komunikacji
     69|
-    70|| Z \\ Do | Vox | Claude | OpenClaw | Nexus | goose | Jarvis | Kimi | OpenCode |
+    70|| Z \ Do | Vox | Claude | OpenClaw | Nexus | goose | Jarvis | Kimi | OpenCode |
     71||---------|-----|--------|----------|-------|-------|--------|------|----------|
     72|| **Vox** | — | `npx acpx claude exec` | `npx acpx openclaw exec` | relay/bridge/pong | LM Studio API :1234 | relay :17426 | ❌ suspended | relay :17426 |
     73|| **Claude** | `npx acpx hermes exec` | — | plik bridge/ | plik bridge/ | LM Studio API :1234 | relay :17426 | ❌ | relay :17426 |
